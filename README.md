@@ -1,19 +1,27 @@
-QA Portfolio - Elma Handzic
+QA Portfolio - Elma Handžić
 
-This repository contains my manual testing practice.
+This repository contains my manual testing practice projects, where I focus on identifying bugs, creating test cases, and improving application quality.
 
 Projects:
-- OrangeHRM testing
-- Buggy web testing
+- OrangeHRM web application testing
+- Buggy web application testing
+- AcademyBugs practice platform
+
+Scope of testing:
+- Functional testing
+- UI testing
+- Positive, negative, and edge case testing
 
 Skills demonstrated:
 - Test case creation
-- Bug reporting
-- Positive, negative and edge testing
+- Bug reporting with clear steps to reproduce
+- Identifying UI and functional issues
+- Analytical thinking and attention to detail
 
 Tools:
 - Jira (basic)
 - AcademyBugs
+- Buggy application
 
 Goal:
-Continuously improving QA skills and building a strong portfolio.
+To continuously improve my QA skills and gain professional experience in software testing, with a long-term goal of learning test automation.
